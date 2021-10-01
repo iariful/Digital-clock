@@ -16,6 +16,6 @@ Live Project 👎
 
 |  #  |                                                           Project                                                           |                                           Live Demo                                           |
 | :-: | :-------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
-| 01  |    Digital Clock      |   [Live Demo] https://iariful.github.io/Digital-clock/
+| 01  |    Digital Clock      |  [Live Demo](https://iariful.github.io/Digital-clock/)
 
 
